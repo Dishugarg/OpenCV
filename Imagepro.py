@@ -9,6 +9,38 @@ def compress(x):
 def imageprocess(x):
     img = cv.imread(x)
     cv.imshow(x,img)
+    
+    
+    
+    def imageprocess(x):
+    img = cv.imread(x)
+    cv.imshow(x,img)
+    cv.waitKey(0)
+    y = input()def imageprocess(x):
+    img = cv.imread(x)
+    cv.imshow(x,img)
+    cv.waitKey(0)
+    y = input()def imageprocess(x):
+    img = cv.imread(x)
+    cv.imshow(x,img)
+    cv.waitKey(0)
+    y = input()def imageprocess(x):
+    img = cv.imread(x)
+    cv.imshow(x,img)
+    cv.waitKey(0)
+    y = input()def imageprocess(x):
+    img = cv.imread(x)
+    cv.imshow(x,img)
+    cv.waitKey(0)
+    y = input()def imageprocess(x):
+    img = cv.imread(x)
+    cv.imshow(x,img)
+    cv.waitKey(0)
+    y = input()def imageprocess(x):
+    img = cv.imread(x)
+    cv.imshow(x,img)
+    cv.waitKey(0)
+    y = input()
     cv.waitKey(0)
     y = input()
 
